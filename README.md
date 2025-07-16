@@ -49,13 +49,17 @@ I'm also exploring the world of **game development with Unity**. It's a growing 
 ## 📌 Featured Projects
 
 ### 🔹✍️ [Personal Writing Website](https://github.com/MunizErthal/contos)
-> Website to publish my short stories and flash fiction  
+> Website to publish my short stories and flash fiction.
 > 🛠 Built with Angular + Firebase + Responsive Design
 
 ### 🔹🛠️ [Paranoia API – Backend REST API](https://github.com/MunizErthal/paranoia-api)
+> Spring Boot REST API developed to support Paranoia web and mobile applications. 
 > 🛠 Built with Spring Boot REST API with MySQL, JPA, Mercado Pago integration and email delivery using Thymeleaf
 
-<!-- Adicione mais projetos aqui com links e pequenas descrições -->
+
+### 🔹📱 [Paranoia Mobile App](https://github.com/MunizErthal/paranoia-mobile)
+> Mobile application of the Paranoia ecosystem.
+> 🛠 Built with Ionic, Angular, SCSS and Capacitor 
 
 ---
 
