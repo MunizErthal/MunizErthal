@@ -64,10 +64,19 @@ I'm also exploring the world of **game development with Unity**. It's a growing 
 > <br>🛠 Built with Ionic, Angular, SCSS and Capacitor 
 
 ---
+<!-- Opcional: GitHub stats -->
+## 📈 GitHub Stats
+
+<p>
+  <!--img src="https://github-readme-stats.vercel.app/api?username=munizerthal&show_icons=true&theme=github_dark" height="165"/-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munizerthal&layout=compact&theme=github_dark" height="165"/>
+</p>
+
+---
 
 ## 🌐 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/fernandome" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -80,14 +89,4 @@ I'm also exploring the world of **game development with Unity**. It's a growing 
   <a href="https://fernandome.com">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</p>
-
----
-
-<!-- Opcional: GitHub stats -->
-## 📈 GitHub Stats
-
-<p>
-  <!--img src="https://github-readme-stats.vercel.app/api?username=munizerthal&show_icons=true&theme=github_dark" height="165"/-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munizerthal&layout=compact&theme=github_dark" height="165"/>
 </p>
