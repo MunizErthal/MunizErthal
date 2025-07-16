@@ -15,7 +15,7 @@
 I'm a backend developer specialized in Java and the Spring Boot ecosystem, with solid experience building REST APIs and integrating with distributed systems.
 I also have hands-on experience as a fullstack developer, working with Angular and other modern web technologies.
 
-I’ve worked on a wide range of backend architectures — from traditional REST-based systems to reactive microservices using Spring WebFlux, with real-time communication and message brokers.
+I’ve worked on a wide range of backend architectures, from traditional REST-based systems to reactive microservices using Spring WebFlux, with real-time communication and message brokers.
 
 - 🎓 Degree in Computer Science  
 - 🔁 Strong background with **Java**, **Spring Boot**, **C#**, **MySQL**, **MongoDB**, and **SQL**
@@ -37,11 +37,11 @@ I'm also exploring the world of **game development with Unity**. It's a growing 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
